@@ -100,13 +100,8 @@
               "src/assets"
             ],
             "styles": [
-<<<<<<< HEAD
               "src/style.sass"
-=======
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/styles.scss"
-              
->>>>>>> d7a37da293563c5e1212aa1fbe1ffef79ccd5ab3
+
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
